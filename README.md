@@ -53,7 +53,8 @@ print(f'Predicted value: {pre}')
 
 ## Output:
 ![linear regression using gradient descent](sam[exp 3.docx](https://github.com/user-attachments/files/17839622/exp.3.docx)
-.png)
+.png)![image](https://github.com/user-attachments/assets/557ff2f8-5922-43ab-8002-1baef5956d41)
+
 
 
 ## Result:
