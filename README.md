@@ -51,9 +51,8 @@ prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction) 
 print(f'Predicted value: {pre}')
 
-## Output:
-![linear regression using gradient descent](sam[exp 3.docx](https://github.com/user-attachments/files/17839622/exp.3.docx)
-.png)![image](https://github.com/user-attachments/assets/557ff2f8-5922-43ab-8002-1baef5956d41)
+## Output:![Screenshot 2024-11-14 043652](https://github.com/user-attachments/assets/2868ef35-1d73-4669-b3b4-1f09aca0b491)
+
 
 
 
